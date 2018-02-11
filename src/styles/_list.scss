@@ -1,0 +1,15 @@
+    .list {
+      background: lightskyblue;
+      max-width: 200px;
+      padding: 10px;
+
+      &__item {
+        padding: 5px 0;
+        background: grey;
+        margin: 5px 0;
+
+        p {
+          padding: 0 5px;
+        }
+      }
+    }
